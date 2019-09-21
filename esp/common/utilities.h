@@ -2,7 +2,7 @@
  * Utilities.h
  *
  *  Created on: 24 sept. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _UTILITIES_H_

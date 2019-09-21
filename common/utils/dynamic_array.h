@@ -2,7 +2,7 @@
  * DynamicArray.h
  *
  *  Created on: 23 juil. 2014
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef DYNAMICARRAY_H_

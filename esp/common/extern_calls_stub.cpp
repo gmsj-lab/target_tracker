@@ -2,7 +2,7 @@
  * externCallsStubs.cpp
  *
  *  Created on: 20 nov. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 #ifndef _EXTERNAL_CALLS_STUBS_H_
 #define _EXTERNAL_CALLS_STUBS_H_

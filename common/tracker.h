@@ -2,7 +2,7 @@
 * Tracker.h
 *
 *  Created on: 18 mars 2016
-*      Author: gilles
+*      Author: gmsj
 */
 #ifndef _TRACKER_H_
 #define _TRACKER_H_

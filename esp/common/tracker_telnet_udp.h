@@ -2,7 +2,7 @@
  * TrackerUdpTelnet.h
  *
  *  Created on: 9 avr. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _TRACKER_TELNET_UDP_H_

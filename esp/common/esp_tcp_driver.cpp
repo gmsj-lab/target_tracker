@@ -2,7 +2,7 @@
  * EspTcpDriver.cpp
  *
  *  Created on: 7 oct. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #include "esp_tcp_driver.h"

@@ -2,7 +2,7 @@
  * TrackerDefines.h
  *
  *  Created on: 4 mars 2017
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _TRACKER_FLAVOURS_H_

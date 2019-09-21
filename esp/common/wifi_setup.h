@@ -2,7 +2,7 @@
  * WifiSetup.h
  *
  *  Created on: 9 avr. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _WIFISETUP_H_

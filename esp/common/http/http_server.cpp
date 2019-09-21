@@ -2,7 +2,7 @@
  * HttpServer.cpp
  *
  *  Created on: 27 nov. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #include "http_server.h"

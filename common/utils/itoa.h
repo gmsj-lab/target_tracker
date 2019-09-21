@@ -2,7 +2,7 @@
  * ltoa.h
  *
  *  Created on: 2 sept. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _LTOA_H_

@@ -2,7 +2,7 @@
  * TargetAttribute.h
  *
  *  Created on: 18 mars 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _TARGETATTRIBUTE_H_

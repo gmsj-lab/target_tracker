@@ -2,7 +2,7 @@
  * Fifo.h
  *
  *  Created on: 18 mars 2016
- *      Author: gilles ( gmsj )
+ *      Author: gmsj
  */
 
 #ifndef _FIFO_H_

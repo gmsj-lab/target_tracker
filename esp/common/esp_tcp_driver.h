@@ -2,7 +2,7 @@
  * EspTcpDriver.h
  *
  *  Created on: 7 oct. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _ESPTCPDRIVER_H_

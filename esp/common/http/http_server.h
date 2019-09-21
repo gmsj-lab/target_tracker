@@ -2,7 +2,7 @@
  * HttpServer.h
  *
  *  Created on: 27 nov. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _HTTP_HTTPSERVER_H_

@@ -2,7 +2,7 @@
  * TrackerSerialComm.h
  *
  *  Created on: 20 mars 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _TRACKERSERIALCOMM_IT_H_

@@ -2,7 +2,7 @@
  * Trackercomplement.h
  *
  *  Created on: 9 avr. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _TRACKERCOMPLEMENT_H_

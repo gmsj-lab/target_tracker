@@ -2,7 +2,7 @@
  * Stack.h
  *
  *  Created on: 23 juil. 2014
- *      Author: gilles Monzat de Saint Julien
+ *      Author: gmsj
  */
 
 #ifndef STACK_H_

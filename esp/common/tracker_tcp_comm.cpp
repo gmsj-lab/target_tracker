@@ -2,7 +2,7 @@
  * TrackerTcpComm.cpp
  *
  *  Created on: 21 oct. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 #include "tracker_tcp_comm.h"
 

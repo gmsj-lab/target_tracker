@@ -2,7 +2,7 @@
  * TrackerSerialComm.cpp
  *
  *  Created on: 19 sept. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 #include "tracker_serial_comm.h"
 

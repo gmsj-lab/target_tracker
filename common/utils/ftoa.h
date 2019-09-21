@@ -2,7 +2,7 @@
  * ftoa.h
  *
  *  Created on: 26 mars 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _FTOA_H_

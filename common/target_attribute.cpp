@@ -2,7 +2,7 @@
  * TargetAttribute.cpp
  *
  *  Created on: 18 mars 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #include "target_attribute.h"

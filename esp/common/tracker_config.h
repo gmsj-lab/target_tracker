@@ -2,7 +2,7 @@
  * TrackerConfig.h
  *
  *  Created on: 25 juil. 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 #ifndef _TRACKERCONFIG_H_
 #define _TRACKERCONFIG_H_

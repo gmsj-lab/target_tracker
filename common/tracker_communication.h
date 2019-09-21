@@ -2,7 +2,7 @@
  * TrackerCommunication.h
  *
  *  Created on: 14 mars 2016
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef _TRACKERCOMMUNICATION_H_
