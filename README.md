@@ -1,5 +1,5 @@
 # TARGET TRACKER
-## uno,stm32 and esp8266 boards target agent
+## uno, stm32 and esp8266 boards target agent
 target agent implementing a home made communication protocol with a controller (PC).
 Implemented for uno, esp8266 and stm32 targets.
 The target controller side that run on Windows or MAC is called target GUI
